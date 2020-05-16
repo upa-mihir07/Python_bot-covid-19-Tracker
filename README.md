@@ -42,4 +42,6 @@ You can receive data on mobile too.
   * The Source of the data is Worldometer, you cn check it [here](https://www.worldometers.info/coronavirus/#countries)
   * If the format of the site changes !!!
     > Don't worry you'll get exception notification on slack too. *Check bot.log for exception and handle it accordingly*
+  * If you want data from specific country just pass arguement along with corona_bot.py file
+    > --country 'india,usa,uk'
   
